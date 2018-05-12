@@ -1,0 +1,38 @@
+_repo: The-Twenty-Fourth-of-June--13-Midsummer-s-Day_14491
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richmond, Grace S. (Grace Smith)
+    alias: Smith, Grace
+    birthdate: 1866
+    deathdate: 1959
+    gutenberg_agent_id: '2216'
+    url: http://www.gutenberg.org/2009/agents/2216
+description: A wealthy and unattached young idler, Richard Kendrick, runs an errand
+  for his even wealthier uncle whose heir he is--and finds himself in the warm, lively,
+  and industrious Gray home. Seeing such family life for the very first time, he is
+  equally fascinated by the experience as by the charming Roberta Gray. Before long,
+  Richard finds a way to install himself in the Gray home as a secretary to Miss Gray's
+  uncle. But although the family at large takes Richard to their heart, he finds Roberta
+  prickly and often even forbidding. Soon, it becomes clear that she looks down on
+  him as a good-for-nothing socialite. Will Richard rise to the challenge and find
+  a useful occupation? Can he really be as useless as Roberta thinks? Will Richard
+  finally be able to set up the home he's come to dream of?
+gutenberg_issued: '2004-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Children of the rich -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Love stories'
+title: 'The Twenty-Fourth of June: Midsummer''s Day'
+url: http://www.gutenberg.org/ebooks/14491
